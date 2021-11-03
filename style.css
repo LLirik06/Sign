@@ -31,7 +31,7 @@ input{
     width: 200px;
     height: 30px;
 }
-.ancher{
+button{
     margin-top: 20px;
     margin-bottom: 20px;
     width: 150px;
@@ -42,7 +42,7 @@ input{
     border-radius: 30px;
     transition: all 0.5s;
 }
-.ancher:hover{
+button:hover{
     background-color: rgb(66, 37, 253); 
 }
 a{
@@ -65,7 +65,7 @@ h3{
     h1{
         font-size: 30px;
     }
-    .ancher{
+    button{
         width: 75%;
     }
 }
